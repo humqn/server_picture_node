@@ -1,4 +1,4 @@
-# Mini Node.js server to upload pcitures
+# Mini Node.js server to upload pictures
 
 Install the project
 `yarn install` or `npm i`
