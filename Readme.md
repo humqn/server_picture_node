@@ -1,7 +1,7 @@
 # Mini Node.js server to upload pcitures
 
 Install the project
-`yarn install` or `npm i'
+`yarn install` or `npm i`
 
 Start the project
 `yarn start`or `npm run start`
